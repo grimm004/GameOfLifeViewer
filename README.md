@@ -1,2 +1,2 @@
 # GameOfLifeViewer
-A basic C# XNA simulation viewer for Conway's Game of Life with file i/o.
+A basic C# Monogame simulation viewer for Conway's Game of Life with file i/o.
